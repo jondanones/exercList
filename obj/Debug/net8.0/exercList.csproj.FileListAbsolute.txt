@@ -1,0 +1,14 @@
+C:\Users\LOGICA\source\repos\exercList\bin\Debug\net8.0\exercList.exe
+C:\Users\LOGICA\source\repos\exercList\bin\Debug\net8.0\exercList.deps.json
+C:\Users\LOGICA\source\repos\exercList\bin\Debug\net8.0\exercList.runtimeconfig.json
+C:\Users\LOGICA\source\repos\exercList\bin\Debug\net8.0\exercList.dll
+C:\Users\LOGICA\source\repos\exercList\bin\Debug\net8.0\exercList.pdb
+C:\Users\LOGICA\source\repos\exercList\obj\Debug\net8.0\exercList.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LOGICA\source\repos\exercList\obj\Debug\net8.0\exercList.AssemblyInfoInputs.cache
+C:\Users\LOGICA\source\repos\exercList\obj\Debug\net8.0\exercList.AssemblyInfo.cs
+C:\Users\LOGICA\source\repos\exercList\obj\Debug\net8.0\exercList.csproj.CoreCompileInputs.cache
+C:\Users\LOGICA\source\repos\exercList\obj\Debug\net8.0\exercList.dll
+C:\Users\LOGICA\source\repos\exercList\obj\Debug\net8.0\refint\exercList.dll
+C:\Users\LOGICA\source\repos\exercList\obj\Debug\net8.0\exercList.pdb
+C:\Users\LOGICA\source\repos\exercList\obj\Debug\net8.0\exercList.genruntimeconfig.cache
+C:\Users\LOGICA\source\repos\exercList\obj\Debug\net8.0\ref\exercList.dll
